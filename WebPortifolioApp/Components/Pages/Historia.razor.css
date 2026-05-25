@@ -1,0 +1,18 @@
+﻿header {
+    font-family: 'MS UI Gothic';
+    font-size: 10px;
+    color: #e1e3db;
+    background: #070001;
+}
+body {
+    background: #e6e6e6;
+}
+.cartao {
+    background: #ffffff;
+    color: #201d1d;
+    padding: 20px;
+    margin: 20px;
+    border-radius: 14px;
+    color: #0e0d0d;
+    font-family: 'Book Antiqua';
+}
